@@ -10,6 +10,7 @@
 *.htm linguist-documentation=false
 *.htm linguist-language=HTML
 *.html linguist-detectable=true
+
 *.html linguist-documentation=false
 *.html linguist-language=HTML
 *.mhtm linguist-detectable=true
@@ -32,6 +33,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# LOLCODE source file
+*.lol linguist-detectable=true
+*.lol linguist-documentation=false
+*.lol linguist-language=LOLCODE
+*.lols linguist-detectable=true
+*.lols linguist-documentation=false
+*.lols linguist-language=LOLCODE
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +169,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
+
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2023, Saturday, February 25th at 1:45 pm PST)
+# Line count (including blank lines and compiler line): 182
+
 # End of script
